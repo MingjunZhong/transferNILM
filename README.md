@@ -4,7 +4,7 @@ This code is written by Michele D'Incecco and Mingjun Zhong based on the code fr
 https://github.com/MingjunZhong/NeuralNetNilm 
 
 References:
-[1] DIncecco, Michele, Stefano Squartini, and Mingjun Zhong. "Transfer Learning for Non-Intrusive Load Monitoring." arXiv preprint arXiv:1902.08835 (2019).
+[1] DIncecco, Michele, Stefano Squartini, and Mingjun Zhong. "Transfer Learning for Non-Intrusive Load Monitoring." IEEE Transactions on Smart Grid, (accepted on 20 August 2019.)(arXiv preprint arXiv:1902.08835)
 [2] Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard, and Charles Sutton. "Sequence-to-point learning with neural networks for nonintrusive load monitoring."
 Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), Feb. 2-7, 2018.
 
