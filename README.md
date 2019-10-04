@@ -11,6 +11,8 @@ We proposed two approaches for transfer learning:
 This code is written by Michele D'Incecco and Mingjun Zhong based on the code from
 https://github.com/MingjunZhong/NeuralNetNilm 
 
+Any questions please drop me an email at mzhong@lincoln.ac.uk
+
 References:
 
 [1] DIncecco, Michele, Stefano Squartini, and Mingjun Zhong. "Transfer Learning for Non-Intrusive Load Monitoring." IEEE Transactions on Smart Grid, (accepted on 20 August 2019.)(arXiv preprint arXiv:1902.08835)
