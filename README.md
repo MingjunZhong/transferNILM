@@ -1,6 +1,13 @@
 
 # Transfer learning for non-intrusive load monitoring (energy disaggregation)
-This code implements the sequence-to-point (seq2point) learning model which was propsoed in [2]. The code then implements transfer learning for NILM. Precisely, we studied transfer learning for NILM using the seq2point learning framework. We proposed two approaches for transfer learning: One is cross-domain transfer learning where you we want to transfer knowledge from domain to domain, for example, we can train a model on UK data and transfer the trained model to US households; The other is appliance transfer learning where you want to transfer learned knowledge from appliance to applaince, for example, we can train a model on Washing Machine and then transfer it to Kettle. For more details, see the paper [1].
+This code implements the sequence-to-point (seq2point) learning model which was propsoed in [2]. The code then implements transfer learning for NILM. Precisely, we studied transfer learning for NILM using the seq2point learning framework. 
+
+We proposed two approaches for transfer learning: 
+
+One is cross-domain transfer learning where you we want to transfer knowledge from domain to domain, for example, we can train a model on UK data and transfer the trained model to US households; 
+
+The other is appliance transfer learning where you want to transfer learned knowledge from appliance to applaince, for example, we can train a model on Washing Machine and then transfer it to Kettle. For more details, see the paper [1].
+
 This code is written by Michele D'Incecco and Mingjun Zhong based on the code from
 https://github.com/MingjunZhong/NeuralNetNilm 
 
