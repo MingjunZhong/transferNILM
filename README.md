@@ -4,9 +4,9 @@ This code implements the sequence-to-point (seq2point) learning model which was 
 
 We proposed two approaches for transfer learning: 
 
-One is cross-domain transfer learning where you we want to transfer knowledge from domain to domain, for example, we can train a model on UK data and transfer the trained model to US households; 
+[1] One is cross-domain transfer learning where you we want to transfer knowledge from domain to domain, for example, we can train a model on UK data and transfer the trained model to US households; 
 
-The other is appliance transfer learning where you want to transfer learned knowledge from appliance to applaince, for example, we can train a model on Washing Machine and then transfer it to Kettle. For more details, see the paper [1].
+[2] The other is appliance transfer learning where you want to transfer learned knowledge from appliance to applaince, for example, we can train a model on Washing Machine and then transfer it to Kettle. For more details, see the paper [1].
 
 This code is written by Michele D'Incecco and Mingjun Zhong based on the code from
 https://github.com/MingjunZhong/NeuralNetNilm 
