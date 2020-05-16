@@ -286,3 +286,10 @@ Transfer learning (Testing on kettle, but the CNN was trained by using washing m
 
 Test output example plot for washing machine:
 ![](images/washingmachine.png)
+
+
+
+# Issues
+### Washing machine for REDD (source: http://redd.csail.mit.edu/data/low_freq.tar.bz2)
+Building 1 as test dataset in the file redd_parameters.py, the label for washing machine is 19, but it is all zero. Instead, the correct channel number is 20.
+See the issue: https://github.com/MingjunZhong/transferNILM/issues/1
