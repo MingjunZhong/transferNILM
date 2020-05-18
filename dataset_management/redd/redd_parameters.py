@@ -43,7 +43,7 @@ params_appliance = {
         'std': 700,
         's2s_length': 2000,
         'houses': [1, 2, 3],
-        'channels': [19, 7, 13],
+        'channels': [20, 7, 13],
         'train_build': [2, 3],
         'test_build': 1
     }
