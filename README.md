@@ -11,7 +11,7 @@ We proposed two approaches for transfer learning:
 This code is written by Michele D'Incecco and Mingjun Zhong based on the code from
 https://github.com/MingjunZhong/NeuralNetNilm 
 
-Any questions please drop me an email at mzhong@lincoln.ac.uk
+Any questions please drop me an email at mingjun.zhong@abdn.ac.uk
 
 References:
 
