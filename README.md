@@ -2,7 +2,7 @@
 # Transfer learning for non-intrusive load monitoring (energy disaggregation)
 This code implements the sequence-to-point (seq2point) learning model which was propsoed in [2]. The code then implements transfer learning for NILM. Precisely, we studied transfer learning for NILM using the seq2point learning framework. 
 
-## Note: the latest code using TensorFlow-2.0 can be found here https://github.com/MingjunZhong/seq2point-nilm ##
+## Note: the latest seq2point leaning code using TensorFlow-2.0 can be found here https://github.com/MingjunZhong/seq2point-nilm ##
 
 We proposed two approaches for transfer learning: 
 
